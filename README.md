@@ -1,5 +1,6 @@
 # Antigravity CLI (`agy`) Custom Statusline Guide (only for Windows powershell) 
-
+## [한국어 readme](!README.md)    
+## [English readme](!README_eng.md)  
 Google Antigravity CLI(`agy`)의 상태 표시줄(Statusline)을 **Codex 스타일**로 커스텀 구성하고 관리하기 위한 안내 문서입니다.
 
 ---
