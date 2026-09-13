@@ -1,6 +1,6 @@
 # Antigravity CLI (`agy`) Custom Statusline Guide (only for Windows PowerShell)
-[한국어 readme](!README.md)
-[English readme](!README_eng.md)
+## [한국어 readme](!README.md)  
+## [English readme](!README_eng.md)
 
 This is a guide document for custom-configuring and managing the statusline of the Google Antigravity CLI (`agy`) in a **Codex style**.
 
